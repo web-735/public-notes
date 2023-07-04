@@ -6,4 +6,4 @@
 
 This is some paragraph `text`
 
-_Can i format this as quoted text?_
+> _Can i format this as quoted text?_
